@@ -30,8 +30,6 @@ Explique como usar o seu cliente de API, incluindo qualquer configuração ou va
 
 ## Endpoints
 
-Forneça uma lista de endpoints da API disponíveis e suas descrições.
-
 - `POST /client`: Criar um novo cliente.
 - `GET /clients`: Obter uma lista de todos os clientes.
 - `GET /client/:id`: Obter um cliente pelo ID.
