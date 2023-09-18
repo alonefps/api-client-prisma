@@ -1,0 +1,46 @@
+# @name get-prompts
+GET http://localhost:3333/clients
+
+###
+
+# @name create-new-client
+POST http://localhost:3333/client
+Content-Type: application/json
+
+{
+    "name": "Igor",
+    "number": "41995641273",
+    "address": "Rua Rio Grande do Sul, 123"
+}
+
+###
+
+# @name create-new-client-2
+POST http://localhost:3333/client
+Content-Type: application/json
+
+{
+    "name": "Pedro",
+    "number": "41999202325",
+    "address": "Rua Santos Grande, 155"
+}
+
+###
+
+# @name get-client-by-id
+GET http://localhost:3333/client/942f1d61-02f7-41b4-ba7c-d39d1f2f5713
+
+### 
+
+# @name update-client
+PUT http://localhost:3333/client/942f1d61-02f7-41b4-ba7c-d39d1f2f5713
+Content-Type: application/json
+
+{
+    "name": "Igor Oliveira de Souza"
+}
+
+### 
+
+# @name delete-client
+DELETE http://localhost:3333/client/942f1d61-02f7-41b4-ba7c-d39d1f2f5713
