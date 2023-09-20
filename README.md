@@ -14,4 +14,4 @@ Este é um aplicativo de cliente de API simples que utiliza o Prisma como ORM de
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE.md) - consulte o arquivo [LICENSE.md](LICENSE.md) para obter detalhes.
+Este projeto está licenciado sob a [Licença MIT](LICENSE.md) - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
