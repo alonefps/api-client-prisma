@@ -2,32 +2,6 @@
 
 Este é um aplicativo de cliente de API simples que utiliza o Prisma como ORM de banco de dados.
 
-## Sumário
-
-- [Começando](#começando)
-- [Pré-requisitos](#pré-requisitos)
-- [Instalação](#instalação)
-- [Utilização](#utilização)
-- [Endpoints](#endpoints)
-- [Contribuições](#contribuições)
-- [Licença](#licença)
-
-## Começando
-
-Esta seção deve fornecer uma breve introdução ao seu projeto e explicar como colocá-lo em funcionamento.
-
-### Pré-requisitos
-
-Liste qualquer software, ferramenta ou biblioteca que precisa ser instalado antes de executar o seu aplicativo.
-
-### Instalação
-
-Um guia passo a passo sobre como instalar e configurar o seu aplicativo.
-
-## Utilização
-
-Explique como usar o seu cliente de API, incluindo qualquer configuração ou variáveis de ambiente que precisam ser definidas.
-
 ## Endpoints
 
 - `POST /client`: Criar um novo cliente.
@@ -36,11 +10,6 @@ Explique como usar o seu cliente de API, incluindo qualquer configuração ou va
 - `PUT /client/:id`: Atualizar um cliente.
 - `DELETE /client/:id`: Excluir um cliente.
 
-## Contribuições
-
-Explique como outros podem contribuir para o seu projeto. Inclua diretrizes para relatar problemas, fazer pull requests, etc.
-
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE.md) - consulte o arquivo [LICENSE.md](LICENSE.md) para obter detalhes.
-
