@@ -8,9 +8,9 @@ POST http://localhost:3333/client
 Content-Type: application/json
 
 {
-    "name": "Rosangela",
-    "number": "41995641273",
-    "address": "Rua Rio Grande do Sul, 123"
+    "name": "name",
+    "number": "number",
+    "address": "address"
 }
 
 ###
@@ -20,9 +20,9 @@ POST http://localhost:3333/client
 Content-Type: application/json
 
 {
-    "name": "Pedro",
-    "number": "41999202325",
-    "address": "Rua Santos Grande, 155"
+    "name": "name",
+    "number": "number",
+    "address": "address"
 }
 
 ###
@@ -37,7 +37,7 @@ PUT http://localhost:3333/client/a762ed53-0cca-42bf-89ac-0fccde574118
 Content-Type: application/json
 
 {
-    "name": "Igor Oliveira de Souza"
+    "name": "new name"
 }
 
 ### 
