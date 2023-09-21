@@ -1,8 +1,6 @@
 # API Cliente com Prisma
 
-Este é um aplicativo de cliente de API simples que utiliza o Prisma como ORM de banco de dados.
-
-<<<<<<< HEAD
+Este é um aplicativo de cliente de API que utiliza o Prisma como ORM de banco de dados.
 
 ## Endpoints
 
